@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="7.10">
+	<data>
+		<int key="IBDocument.SystemTarget">768</int>
+		<string key="IBDocument.SystemVersion">10D573</string>
+		<string key="IBDocument.InterfaceBuilderVersion">762</string>
+		<string key="IBDocument.AppKitVersion">1038.29</string>
+		<string key="IBDocument.HIToolboxVersion">460.00</string>
+		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+			<string key="NS.object.0">87</string>
+		</object>
+		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
+			<bool key="EncodedWithXMLCoder">YES</bool>
+			<integer value="23"/>
+		</object>
+		<object class="NSArray" key="IBDocument.PluginDependencies">
+			<bool key="EncodedWithXMLCoder">YES</bool>
+			<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+		</object>
+		<object class="NSMutableDictionary" key="IBDocument.Metadata">
+			<bool key="EncodedWithXMLCoder">YES</bool>
+			<object class="NSArray" key="dict.sortedKeys" id="0">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+			</object>
+			<object class="NSMutableArray" key="dict.values">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+			</object>
+		</object>
+		<object class="NSMutableArray" key="IBDocument.RootObjects" id="1000">
+			<bool key="EncodedWithXMLCoder">YES</bool>
+			<object class="IBProxyObject" id="372490531">
+				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+			<object class="IBProxyObject" id="975951072">
+				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+			<object class="IBUIView" id="191373211">
+				<reference key="NSNextResponder"/>
+				<int key="NSvFlags">292</int>
+				<object class="NSMutableArray" key="NSSubviews">
+					<bool key="EncodedWithXMLCoder">YES</bool>
+					<object class="IBUITextView" id="494312326">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">274</int>
+						<string key="NSFrame">{{0, 43}, {320, 417}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<object class="NSColor" key="IBUIBackgroundColor">
+							<int key="NSColorSpace">1</int>
+							<bytes key="NSRGB">MSAxIDEAA</bytes>
+						</object>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<bool key="IBUIMultipleTouchEnabled">YES</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<bool key="IBUIShowsHorizontalScrollIndicator">NO</bool>
+						<bool key="IBUIDelaysContentTouches">NO</bool>
+						<bool key="IBUICanCancelContentTouches">NO</bool>
+						<bool key="IBUIBouncesZoom">NO</bool>
+						<bool key="IBUIEditable">NO</bool>
+						<string type="base64-UTF8" key="IBUIText">5pys44Ki44OX44Oq44Kx44O844K344On44Oz44GvSVBB44GM6YWN5biD44GX44Gm44GE44KLSVBB44OV
+44Kp44Oz44OI44KS5L2/55So44GX44Gm44GE44G+44GZ44CC44G+44Gf44CB5Lul5LiL44GuSVBB44OV
+44Kp44Oz44OI44Op44Kk44K744Oz44K544Gr5ZCM5oSP44GX44Gm44GE44G+44GZ44CCCgpJUEHjg5Xj
+gqnjg7Pjg4jjg6njgqTjgrvjg7PjgrlVUkwKaHR0cDovL2lwYWZvbnQuaXBhLmdvLmpwL2lwYV9mb250
+X2xpY2Vuc2VfdjEuaHRtbAoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0NCklQQSBGb250IExpY2Vuc2UgQWdyZWVtZW50IHYxLjAgPEphcGFuZXNlL0VuZ2xpc2g+
+DQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KDQpJUEHj
+g5Xjgqnjg7Pjg4jjg6njgqTjgrvjg7Pjgrl2MS4wDQoNCuioseirvuiAheOBr+OAgeOBk+OBruS9v+eU
+qOioseirvu+8iOS7peS4i+OAjOacrOWlkee0hOOAjeOBqOOBhOOBhOOBvuOBmeOAgu+8ieOBq+WumuOC
+geOCi+adoeS7tuOBruS4i+OBp+OAgeioseirvuODl+ODreOCsOODqeODoO+8iDHmnaHjgavlrprnvqnj
+gZnjgovjgajjgZPjgo3jgavjgojjgorjgb7jgZnjgILvvInjgpLmj5DkvpvjgZfjgb7jgZnjgILlj5fp
+oJjogIXvvIgx5p2h44Gr5a6a576p44GZ44KL44Go44GT44KN44Gr44KI44KK44G+44GZ44CC77yJ44GM
+44CB6Kix6Ku+44OX44Ot44Kw44Op44Og44KS5L2/55So44GX44CB6KSH6KO944GX44CB44G+44Gf44Gv
+6aCS5biD44GZ44KL6KGM54K644CB44Gd44Gu5LuW44CB5pys5aWR57SE44Gr5a6a44KB44KL5qip5Yip
+44Gu5Yip55So44KS6KGM44Gj44Gf5aC05ZCI44CB5Y+X6aCY6ICF44Gv5pys5aWR57SE44Gr5ZCM5oSP
+44GX44Gf44KC44Gu44Go6KaL44Gq44GX44G+44GZ44CCDQoNCg0K56ysMeadoeOAgOeUqOiqnuOBruWu
+mue+qQ0KDQrmnKzlpZHntITjgavjgYrjgYTjgabjgIHmrKHjga7lkITlj7fjgavmjrLjgZLjgovnlKjo
+qp7jga/jgIHlvZPoqbLlkITlj7fjgavlrprjgoHjgovjgajjgZPjgo3jgavjgojjgorjgb7jgZnjgIIN
+Cg0KMS7jgIzjg4fjgrjjgr/jg6vvvaXjg5Xjgqnjg7Pjg4jvvaXjg5fjg63jgrDjg6njg6DjgI3jgajj
+ga/jgIHjg5Xjgqnjg7Pjg4jjgpLlkKvjgb/jgIHjg6zjg7Pjg4Djg6rjg7PjgrDjgZfjgb7jgZ/jga/o
+oajnpLrjgZnjgovjgZ/jgoHjgavnlKjjgYTjgonjgozjgovjgrPjg7Pjg5Tjg6Xjg7zjgr/jg7vjg5fj
+g63jgrDjg6njg6DjgpLjgYTjgYTjgb7jgZnjgIINCjIu44CM6Kix6Ku+44OX44Ot44Kw44Op44Og44CN
+44Go44Gv44CB6Kix6Ku+6ICF44GM5pys5aWR57SE44Gu5LiL44Gn6Kix6Ku+44GZ44KL44OH44K444K/
+44Or772l44OV44Kp44Oz44OI772l44OX44Ot44Kw44Op44Og44KS44GE44GE44G+44GZ44CCDQozLuOA
+jOa0vueUn+ODl+ODreOCsOODqeODoOOAjeOBqOOBr+OAgeioseirvuODl+ODreOCsOODqeODoOOBruS4
+gOmDqOOBvuOBn+OBr+WFqOmDqOOCkuOAgeaUueWkieOBl+OAgeWKoOmZpOS/ruato+etieOBl+OAgeWF
+peOCjOabv+OBiOOAgeOBneOBruS7lue/u+ahiOOBl+OBn+ODh+OCuOOCv+ODq++9peODleOCqeODs+OD
+iO+9peODl+ODreOCsOODqeODoOOCkuOBhOOBhOOAgeioseirvuODl+ODreOCsOODqeODoOOBruS4gOmD
+qOOCguOBl+OBj+OBr+WFqOmDqOOBi+OCieaWh+Wtl+aDheWgseOCkuWPluOCiuWHuuOBl+OAgeOBvuOB
+n+OBr+ODh+OCuOOCv+ODq++9peODieOCreODpeODoeODs+ODiO+9peODleOCoeOCpOODq+OBi+OCieOC
+qOODs+ODmeODg+ODieOBleOCjOOBn+ODleOCqeODs+ODiOOCkuWPluOCiuWHuuOBl+OAgeWPluOCiuWH
+uuOBleOCjOOBn+aWh+Wtl+aDheWgseOCkuOBneOBruOBvuOBvuOAgeOBvuOBn+OBr+aUueWkieOCkuOB
+quOBl+OBpuaWsOOBn+OBquODh+OCuOOCv+ODq+ODu+ODleOCqeODs+ODiOODu+ODl+ODreOCsOODqeOD
+oOOBqOOBl+OBpuijveS9nOOBleOCjOOBn+OCguOBruOCkuWQq+OBv+OBvuOBmeOAgg0KNC7jgIzjg4fj
+grjjgr/jg6vjg7vjgrPjg7Pjg4bjg7Pjg4TjgI3jgajjga/jgIHjg4fjgrjjgr/jg6vjg7vjg4fjg7zj
+gr/lvaLlvI/jgavjgojjgaPjgabjgqjjg7Pjg4njg7vjg6bjg7zjgrbjgavmj5DkvpvjgZXjgozjgovl
+iLbkvZznianjga7jgZPjgajjgpLjgYTjgYTjgIHli5XnlLvjg7vpnZnmraLnlLvnrYnjga7mmKDlg4/j
+grPjg7Pjg4bjg7Pjg4TjgYrjgojjgbPjg4bjg6zjg5PnlarntYTnrYnjga7mlL7pgIHjgrPjg7Pjg4bj
+g7Pjg4TjgIHjgarjgonjgbPjgavmloflrZfjg4bjgq3jgrnjg4jjgIHnlLvlg4/jgIHlm7PlvaLnrYnj
+gpLlkKvjgpPjgafmp4vmiJDjgZXjgozjgZ/liLbkvZznianjgpLlkKvjgb/jgb7jgZnjgIINCjUu44CM
+44OH44K444K/44Or44O744OJ44Kt44Ol44Oh44Oz44OI44O744OV44Kh44Kk44Or44CN44Go44Gv44CB
+UERG44OV44Kh44Kk44Or44Gd44Gu5LuW44CB5ZCE56iu44K944OV44OI44Km44Kn44Ki772l44OX44Ot
+44Kw44Op44Og44Gr44KI44Gj44Gm6KO95L2c44GV44KM44Gf44OH44K444K/44Or44O744Kz44Oz44OG
+44Oz44OE44Gn44GC44Gj44Gm44CB44Gd44Gu5Lit44Gr44OV44Kp44Oz44OI44KS6KGo56S644GZ44KL
+44Gf44KB44Gr6Kix6Ku+44OX44Ot44Kw44Op44Og44Gu5YWo6YOo44G+44Gf44Gv5LiA6YOo44GM5Z+L
+44KB6L6844G+44KM44Gf77yI44Ko44Oz44OZ44OD44OJ44GV44KM44Gf77yJ44KC44Gu44KS44GE44GE
+44G+44GZ44CC44OV44Kp44Oz44OI44GM44CM44Ko44Oz44OZ44OD44OJ44GV44KM44Gf44CN44Go44Gv
+44CB5b2T6Kmy44OV44Kp44Oz44OI44GM5Z+L44KB6L6844G+44KM44Gf54m55a6a44Gu44CM44OH44K4
+44K/44Or44O744OJ44Kt44Ol44Oh44Oz44OI44O744OV44Kh44Kk44Or44CN44Gr44GK44GE44Gm44Gu
+44G/6KGo56S644GV44KM44KL44Gf44KB44Gr5L2/55So44GV44KM44Gm44GE44KL54q25oWL44KS5oyH
+44GX44CB44Gd44Gu54m55a6a44Gu44CM44OH44K444K/44Or44O744OJ44Kt44Ol44Oh44Oz44OI44O7
+44OV44Kh44Kk44Or44CN5Lul5aSW44Gn44OV44Kp44Oz44OI44KS6KGo56S644GZ44KL44Gf44KB44Gr
+5L2/55So44Gn44GN44KL44OH44K444K/44Or44O744OV44Kp44Oz44OI44O744OX44Ot44Kw44Op44Og
+44Gr5ZCr44G+44KM44Gm44GE44KL5aC05ZCI44Go5Yy65Yil44GV44KM44G+44GZ44CCDQo2LuOAjOOC
+s+ODs+ODlOODpeODvOOCv++9o+OBqOOBr+OAgeacrOWlkee0hOOBq+OBiuOBhOOBpuOBr+OAgeOCteOD
+vOODkOOCkuWQq+OBv+OBvuOBmeOAgg0KNy7jgIzopIfoo73jgZ3jga7ku5bjga7liKnnlKjjgI3jgajj
+ga/jgIHopIfoo73jgIHorbLmuKHjgIHpoJLluIPjgIHosrjkuI7jgIHlhazooYbpgIHkv6HjgIHkuIrm
+mKDjgIHlsZXnpLrjgIHnv7vmoYjjgZ3jga7ku5bjga7liKnnlKjjgpLjgYTjgYTjgb7jgZnjgIINCjgu
+44CM5Y+X6aCY6ICF44CN44Go44Gv44CB6Kix6Ku+44OX44Ot44Kw44Op44Og44KS5pys5aWR57SE44Gu
+5LiL44Gn5Y+X6aCY44GX44Gf5Lq644KS44GE44GE44CB5Y+X6aCY6ICF44GL44KJ6Kix6Ku+44OX44Ot
+44Kw44Op44Og44KS5Y+X6aCY44GX44Gf5Lq644KS5ZCr44G/44G+44GZ44CCDQoNCuesrO+8kuadoSDk
+vb/nlKjoqLHoq77jga7ku5jkuI4NCg0K6Kix6Ku+6ICF44Gv5Y+X6aCY6ICF44Gr5a++44GX44CB5pys
+5aWR57SE44Gu5p2h6aCF44Gr5b6T44GE44CB44GZ44G544Gm44Gu5Zu944Gn44CB6Kix6Ku+44OX44Ot
+44Kw44Op44Og44KS5L2/55So44GZ44KL44GT44Go44KS6Kix6Ku+44GX44G+44GZ44CC44Gf44Gg44GX
+44CB6Kix6Ku+44OX44Ot44Kw44Op44Og44Gr5a2Y5Zyo44GZ44KL5LiA5YiH44Gu5qip5Yip44Gv44GZ
+44G544Gm6Kix6Ku+6ICF44GM5L+d5pyJ44GX44Gm44GE44G+44GZ44CC5pys5aWR57SE44Gv44CB5pys
+5aWR57SE44Gn5piO56S655qE44Gr5a6a44KB44KJ44KM44Gm44GE44KL5aC05ZCI44KS6Zmk44GN44CB
+44GE44GL44Gq44KL5oSP5ZGz44Gr44GK44GE44Gm44KC44CB6Kix6Ku+6ICF44GM5L+d5pyJ44GZ44KL
+6Kix6Ku+44OX44Ot44Kw44Op44Og44Gr6Zai44GZ44KL5LiA5YiH44Gu5qip5Yip44GK44KI44Gz44CB
+44GE44GL44Gq44KL5ZWG5qiZ44CB5ZWG5Y+344CB44KC44GX44GP44Gv44K144O844OT44K544O744Oe
+44O844Kv44Gr6Zai44GZ44KL5qip5Yip44KS44KC5Y+X6aCY6ICF44Gr56e76Lui44GZ44KL44KC44Gu
+44Gn44Gv44GC44KK44G+44Gb44KT44CCDQoNCjEu5Y+X6aCY6ICF44Gv5pys5aWR57SE44Gr5a6a44KB
+44KL5p2h5Lu244Gr5b6T44GE44CB6Kix6Ku+44OX44Ot44Kw44Op44Og44KS5Lu75oSP44Gu5pWw44Gu
+44Kz44Oz44OU44Ol44O844K/44Gr44Kk44Oz44K544OI44O844Or44GX44CB5b2T6Kmy44Kz44Oz44OU
+44Ol44O844K/44Gn5L2/55So44GZ44KL44GT44Go44GM44Gn44GN44G+44GZ44CCDQoyLuWPl+mgmOiA
+heOBr+OCs+ODs+ODlOODpeODvOOCv+OBq+OCpOODs+OCueODiOODvOODq+OBleOCjOOBn+ioseirvuOD
+l+ODreOCsOODqeODoOOCkuOBneOBruOBvuOBvuOAgeOBvuOBn+OBr+aUueWkieOCkuihjOOBo+OBn+OB
+huOBiOOBp+OAgeWNsOWIt+eJqeOBiuOCiOOBs+ODh+OCuOOCv+ODq+ODu+OCs+ODs+ODhuODs+ODhOOB
+q+OBiuOBhOOBpuOAgeaWh+Wtl+ODhuOCreOCueODiOihqOePvuetieOBqOOBl+OBpuS9v+eUqOOBmeOC
+i+OBk+OBqOOBjOOBp+OBjeOBvuOBmeOAgg0KMy7lj5fpoJjogIXjga/liY3poIXjga7lrprjgoHjgavl
+vpPjgYTkvZzmiJDjgZfjgZ/ljbDliLfnianjgYrjgojjgbPjg4fjgrjjgr/jg6vjg7vjgrPjg7Pjg4bj
+g7Pjg4TjgavjgaTjgY3jgIHjgZ3jga7llYbnlKjjg7vpnZ7llYbnlKjjga7liKXjgIHjgYrjgojjgbPm
+lL7pgIHjgIHpgJrkv6HjgIHlkITnqK7oqJjpjLLjg6Hjg4fjgqPjgqLjgarjganjga7lqpLkvZPjga7l
+vaLlvI/jgpLllY/jgo/jgZrjgIHopIfoo73jgZ3jga7ku5bjga7liKnnlKjjgpLjgZnjgovjgZPjgajj
+gYzjgafjgY3jgb7jgZnjgIINCjQu5Y+X6aCY6ICF44GM44OH44K444K/44Or44O744OJ44Kt44Ol44Oh
+44Oz44OI44O744OV44Kh44Kk44Or44GL44KJ44Ko44Oz44OZ44OD44OJ44GV44KM44Gf44OV44Kp44Oz
+44OI44KS5Y+W44KK5Ye644GX44Gm5rS+55Sf44OX44Ot44Kw44Op44Og44KS5L2c5oiQ44GX44Gf5aC0
+5ZCI44Gr44Gv44CB44GL44GL44KL5rS+55Sf44OX44Ot44Kw44Op44Og44Gv5pys5aWR57SE44Gr5a6a
+44KB44KL5p2h5Lu244Gr5b6T44GG5b+F6KaB44GM44GC44KK44G+44GZ44CCDQo1LuioseirvuODl+OD
+reOCsOODqeODoOOBruOCqOODs+ODmeODg+ODieOBleOCjOOBn+ODleOCqeODs+ODiOOBjOODh+OCuOOC
+v+ODq+ODu+ODieOCreODpeODoeODs+ODiOODu+ODleOCoeOCpOODq+WGheOBruODh+OCuOOCv+ODq+OD
+u+OCs+ODs+ODhuODs+ODhOOCkuODrOODs+ODgOODquODs+OCsOOBmeOCi+OBn+OCgeOBq+OBruOBv+S9
+v+eUqOOBleOCjOOCi+WgtOWQiOOBq+OBiuOBhOOBpuOAgeWPl+mgmOiAheOBjOW9k+ipsuODh+OCuOOC
+v+ODq+ODu+ODieOCreODpeODoeODs+ODiOODu+ODleOCoeOCpOODq+OCkuikh+ijveOBneOBruS7luOB
+ruWIqeeUqOOCkuOBmeOCi+WgtOWQiOOBq+OBr+OAgeWPl+mgmOiAheOBr+OBi+OBi+OCi+ihjOeCuuOB
+q+mWouOBl+OBpuOBr+acrOWlkee0hOOBruS4i+OBp+OBr+OBhOOBi+OBquOCi+e+qeWLmeOCkuOCguiy
+oOOBhOOBvuOBm+OCk+OAgg0KNi7lj5fpoJjogIXjga/jgIEz5p2hMumgheOBruWumuOCgeOBq+W+k+OB
+hOOAgeWVhueUqOODu+mdnuWVhueUqOOCkuWVj+OCj+OBmuOAgeioseirvuODl+ODreOCsOODqeODoOOC
+kuOBneOBruOBvuOBvuOBrueKtuaFi+OBp+aUueWkieOBmeOCi+OBk+OBqOOBquOBj+ikh+ijveOBl+OB
+puesrOS4ieiAheOBuOOBruitsua4oeOBl+OAgeWFrOihhumAgeS/oeOBl+OAgeOBneOBruS7luOBruaW
+ueazleOBp+WGjemFjeW4g+OBmeOCi+OBk+OBqOOBjOOBp+OBjeOBvuOBmSjku6XkuIvjgIHjgIzlho3p
+hY3luIPjgI3jgajjgYTjgYTjgb7jgZnjgIIp44CCDQo3LuWPl+mgmOiAheOBr+OAgeS4iuiomOOBruio
+seirvuODl+ODreOCsOODqeODoOOBq+OBpOOBhOOBpuWumuOCgeOCieOCjOOBn+adoeS7tuOBqOWQjOan
+mOOBruadoeS7tuOBq+W+k+OBo+OBpuOAgea0vueUn+ODl+ODreOCsOODqeODoOOCkuS9nOaIkOOBl+OA
+geS9v+eUqOOBl+OAgeikh+ijveOBl+OAgeWGjemFjeW4g+OBmeOCi+OBk+OBqOOBjOOBp+OBjeOBvuOB
+meOAguOBn+OBoOOBl+OAgeWPl+mgmOiAheOBjOa0vueUn+ODl+ODreOCsOODqeODoOOCkuWGjemFjeW4
+g+OBmeOCi+WgtOWQiOOBq+OBr+OAgTPmnaEx6aCF44Gu5a6a44KB44Gr5b6T44GG44KC44Gu44Go44GX
+44G+44GZ44CCDQoNCuesrO+8k+adoeOAgOWItumZkA0KDQrliY3mnaHjgavjgojjgorku5jkuI7jgZXj
+gozjgZ/kvb/nlKjoqLHoq77jga/jgIHku6XkuIvjga7liLbpmZDjgavmnI3jgZfjgb7jgZnjgIINCg0K
+MS7mtL7nlJ/jg5fjg63jgrDjg6njg6DjgYzliY3mnaE06aCF5Y+K44GzN+mgheOBq+WfuuOBpeOBjeWG
+jemFjeW4g+OBleOCjOOCi+WgtOWQiOOBq+OBr+OAgeS7peS4i+OBruWFqOOBpuOBruadoeS7tuOCkua6
+gOOBn+OBleOBquOBkeOCjOOBsOOBquOCiuOBvuOBm+OCk+OAgg0K44CAKDEp5rS+55Sf44OX44Ot44Kw
+44Op44Og44KS5YaN6YWN5biD44GZ44KL6Zqb44Gr44Gv44CB5LiL6KiY44KC44G+44Gf44CB5b2T6Kmy
+5rS+55Sf44OX44Ot44Kw44Op44Og44Go5LiA57eS44Gr5YaN6YWN5biD44GV44KM44CB44Kq44Oz44Op
+44Kk44Oz44Gn5o+Q5L6b44GV44KM44CB44G+44Gf44Gv44CB6YO16YCB6LK744O75aqS5L2T5Y+K44Gz
+5Y+W5omx5omL5pWw5paZ44Gu5ZCI6KiI44KS6LaF44GI44Gq44GE5a6f6LK744Go5byV44GN5o+b44GI
+44Gr5aqS5L2T44KS6YO16YCB44GZ44KL5pa55rOV44Gr44KI44KK5o+Q5L6b44GV44KM44Gq44GR44KM
+44Gw44Gq44KK44G+44Gb44KT44CCDQrjgIDjgIAoYSnmtL7nlJ/jg5fjg63jgrDjg6njg6Djga7lhpnj
+gZc7IOOBiuOCiOOBsw0K44CA44CAKGIp5rS+55Sf44OX44Ot44Kw44Op44Og44KS5L2c5oiQ44GZ44KL
+6YGO56iL44Gn44OV44Kp44Oz44OI6ZaL55m644OX44Ot44Kw44Op44Og44Gr44KI44Gj44Gm5L2c5oiQ
+44GV44KM44Gf6L+95Yqg44Gu44OV44Kh44Kk44Or44Gn44GC44Gj44Gm5rS+55Sf44OX44Ot44Kw44Op
+44Og44KS44GV44KJ44Gr5Yqg5bel44GZ44KL44Gr44GC44Gf44Gj44Gm5Yip55So44Gn44GN44KL44OV
+44Kh44Kk44Or44GM5a2Y5Zyo44GZ44KM44Gw44CB5b2T6Kmy44OV44Kh44Kk44OrDQrjgIAoMinmtL7n
+lJ/jg5fjg63jgrDjg6njg6Djga7lj5fpoJjogIXjgYzjgIHmtL7nlJ/jg5fjg63jgrDjg6njg6DjgpLj
+gIHjgZPjga7jg6njgqTjgrvjg7Pjgrnjga7kuIvjgafmnIDliJ3jgavjg6rjg6rjg7zjgrnjgZXjgozj
+gZ/oqLHoq77jg5fjg63jgrDjg6njg6DvvIjku6XkuIvjgIHjgIzjgqrjg6rjgrjjg4rjg6vjg7vjg5fj
+g63jgrDjg6njg6DjgI3jgajjgYTjgYTjgb7jgZnjgILvvInjgavnva7jgY3mj5vjgYjjgovjgZPjgajj
+gYzjgafjgY3jgovmlrnms5XjgpLlho3phY3luIPjgZnjgovjgoLjga7jgajjgZfjgb7jgZnjgILjgYvj
+gYvjgovmlrnms5Xjga/jgIHjgqrjg6rjgrjjg4rjg6vjg7vjg5XjgqHjgqTjg6vjgYvjgonjga7lt67l
+iIbjg5XjgqHjgqTjg6vjga7mj5DkvpvjgIHjgb7jgZ/jga/jgIHmtL7nlJ/jg5fjg63jgrDjg6njg6Dj
+gpLjgqrjg6rjgrjjg4rjg6vjg7vjg5fjg63jgrDjg6njg6Djgavnva7jgY3mj5vjgYjjgovmlrnms5Xj
+gpLnpLrjgZnmjIfnpLrjga7mj5DkvpvjgarjganjgYzogIPjgYjjgonjgozjgb7jgZnjgIINCuOAgCgz
+Kea0vueUn+ODl+ODreOCsOODqeODoOOCkuOAgeacrOWlkee0hOabuOOBq+WumuOCgeOCieOCjOOBn+ad
+oeS7tuOBruS4i+OBp+ODqeOCpOOCu+ODs+OCueOBl+OBquOBkeOCjOOBsOOBquOCiuOBvuOBm+OCk+OA
+gg0K44CAKDQp5rS+55Sf44OX44Ot44Kw44Op44Og44Gu44OX44Ot44Kw44Op44Og5ZCN44CB44OV44Kp
+44Oz44OI5ZCN44G+44Gf44Gv44OV44Kh44Kk44Or5ZCN44Go44GX44Gm44CB6Kix6Ku+44OX44Ot44Kw
+44Op44Og44GM55So44GE44Gm44GE44KL44Gu44Go5ZCM5LiA44Gu5ZCN56ew44CB44G+44Gf44Gv44GT
+44KM44KS5ZCr44KA5ZCN56ew44KS5L2/55So44GX44Gm44Gv44Gq44KK44G+44Gb44KT44CCDQrjgIAo
+NSnmnKzpoIXjga7opoHku7bjgpLmuoDjgZ/jgZnjgZ/jgoHjgavjgqrjg7Pjg6njgqTjg7Pjgafmj5Dk
+vpvjgZfjgIHjgb7jgZ/jga/lqpLkvZPjgpLpg7XpgIHjgZnjgovmlrnms5Xjgafmj5DkvpvjgZXjgozj
+govjgoLjga7jga/jgIHjgZ3jga7mj5DkvpvjgpLluIzmnJvjgZnjgovjgYTjgYvjgarjgovogIXjgavj
+gojjgaPjgabjgoLmj5DkvpvjgYzlj6/og73jgafjgZnjgIINCjIu5Y+X6aCY6ICF44GM5YmN5p2hNumg
+heOBq+WfuuOBpeOBjeioseirvuODl+ODreOCsOODqeODoOOCkuWGjemFjeW4g+OBmeOCi+WgtOWQiOOB
+q+OBr+OAgeS7peS4i+OBruWFqOOBpuOBruadoeS7tuOCkua6gOOBn+OBleOBquOBkeOCjOOBsOOBquOC
+iuOBvuOBm+OCk+OAgg0K44CAKDEp6Kix6Ku+44OX44Ot44Kw44Op44Og44Gu5ZCN56ew44KS5aSJ5pu0
+44GX44Gm44Gv44Gq44KK44G+44Gb44KT44CCDQrjgIAoMinoqLHoq77jg5fjg63jgrDjg6njg6Djgavl
+iqDlt6XjgZ3jga7ku5bjga7mlLnlpInjgpLliqDjgYjjgabjga/jgarjgorjgb7jgZvjgpPjgIINCuOA
+gCgzKeacrOWlkee0hOOBruWGmeOBl+OCkuioseirvuODl+ODreOCsOODqeODoOOBq+a3u+S7mOOBl+OB
+quOBkeOCjOOBsOOBquOCiuOBvuOBm+OCk+OAgg0KMy7oqLHoq77jg5fjg63jgrDjg6njg6Djga/jgIHn
+j77nirbmnInlp7/jgafmj5DkvpvjgZXjgozjgabjgYrjgorjgIHoqLHoq77jg5fjg63jgrDjg6njg6Dj
+gb7jgZ/jga/mtL7nlJ/jg5fjg63jgrDjg6njg6DjgavjgaTjgYTjgabjgIHoqLHoq77ogIXjga/kuIDl
+iIfjga7mmI7npLrjgb7jgZ/jga/pu5nnpLrjga7kv53oqLzvvIjmqKnliKnjga7miYDlnKjjgIHpnZ7k
+vrXlrrPjgIHllYblk4HmgKfjgIHnibnlrprnm67nmoTjgbjjga7pganlkIjmgKfjgpLlkKvjgoDjgYzj
+gZPjgozjgavpmZDjgonjgozjgb7jgZvjgpPvvInjgpLooYzjgYTjgb7jgZvjgpPjgILjgYTjgYvjgarj
+govloLTlkIjjgavjgoLjgIHjgZ3jga7ljp/lm6DjgpLllY/jgo/jgZrjgIHlpZHntITkuIrjga7osqzk
+u7vjgYvljrPmoLzosqzku7vjgYvpgY7lpLHjgZ3jga7ku5bjga7kuI3ms5XooYzngrrosqzku7vjgYvj
+gavjgYvjgYvjgo/jgonjgZrjgIHjgb7jgZ/kuovliY3jgavpgJrnn6XjgZXjgozjgZ/jgYvlkKbjgYvj
+gavjgYvjgYvjgo/jgonjgZrjgIHoqLHoq77ogIXjga/jgIHoqLHoq77jg5fjg63jgrDjg6njg6Djgb7j
+gZ/jga/mtL7nlJ/jg5fjg63jgrDjg6njg6Djga7jgqTjg7Pjgrnjg4jjg7zjg6vjgIHkvb/nlKjjgIHo
+pIfoo73jgZ3jga7ku5bjga7liKnnlKjjgb7jgZ/jga/mnKzlpZHntITkuIrjga7mqKnliKnjga7ooYzk
+vb/jgavjgojjgaPjgabnlJ/jgZjjgZ/kuIDliIfjga7mkI3lrrPvvIjnm7TmjqXjg7vplpPmjqXjg7vk
+u5jpmo/nmoTjg7vnibnliKXjg7vmi6HlpKfjg7vmh7LnvbDnmoTjgb7jgZ/jga/ntZDmnpznmoTmkI3l
+rrPvvInvvIjllYblk4Hjgb7jgZ/jga/jgrXjg7zjg5Pjgrnjga7ku6Pmm7/lk4Hjga7oqr/pgZTjgIHj
+grfjgrnjg4bjg6DpmpzlrrPjgYvjgonnlJ/jgZjjgZ/mkI3lrrPjgIHnj77lrZjjgZnjgovjg4fjg7zj
+gr/jgb7jgZ/jga/jg5fjg63jgrDjg6njg6Djga7ntJvlpLHjgb7jgZ/jga/noLTmkI3jgIHpgLjlpLHl
+iKnnm4rjgpLlkKvjgoDjgYzjgZPjgozjgavpmZDjgonjgozjgb7jgZvjgpPvvInjgavjgaTjgYTjgabo
+sqzku7vjgpLosqDjgYTjgb7jgZvjgpPjgIINCjQu6Kix6Ku+44OX44Ot44Kw44Op44Og44G+44Gf44Gv
+5rS+55Sf44OX44Ot44Kw44Op44Og44Gu44Kk44Oz44K544OI44O844Or44CB5L2/55So44CB6KSH6KO9
+44Gd44Gu5LuW44Gu5Yip55So44Gr6Zai44GX44Gm44CB6Kix6Ku+6ICF44Gv5oqA6KGT55qE44Gq6LOq
+5ZWP44KE5ZWP44GE5ZCI44KP44Gb562J44Gr5a++44GZ44KL5a++5b+c44Gd44Gu5LuW44CB44GE44GL
+44Gq44KL44Om44O844K244O744K144Od44O844OI44KS44KC6KGM44GG576p5YuZ44KS6LKg44GE44G+
+44Gb44KT44CCDQoNCuesrO+8lOadoeOAgOWlkee0hOOBrue1guS6hg0KDQoxLuacrOWlkee0hOOBruac
+ieWKueacn+mWk+OBr+OAgeWPl+mgmOiAheOBjOioseirvuODl+ODreOCsOODqeODoOOCkuWPl+mgmOOB
+l+OBn+aZguOBq+mWi+Wni+OBl+OAgeWPl+mgmOiAheOBjOioseirvuODl+ODreOCsOODqeODoOOCkuS9
+leOCieOBi+OBruaWueazleOBp+S/neaMgeOBmeOCi+mZkOOCiue2muOBj+OCguOBruOBqOOBl+OBvuOB
+meOAgg0KMi7liY3poIXjga7lrprjgoHjgavjgYvjgYvjgo/jgonjgZrjgIHlj5fpoJjogIXjgYzmnKzl
+pZHntITjgavlrprjgoHjgovlkITmnaHpoIXjgavpgZXlj43jgZfjgZ/jgajjgY3jga/jgIHmnKzlpZHn
+tITjga/jgIHkvZXjgonjga7lgqzlkYrjgpLopoHjgZnjgovjgZPjgajjgarjgY/jgIHoh6rli5XnmoTj
+gavntYLkuobjgZfjgIHlvZPoqbLlj5fpoJjogIXjga/jgZ3jgozku6XlvozjgIHoqLHoq77jg5fjg63j
+grDjg6njg6DjgYrjgojjgbPmtL7nlJ/jg5fjg63jgrDjg6njg6DjgpLkuIDliIfkvb/nlKjjgZfjgb7j
+gZ/jga/opIfoo73jgZ3jga7ku5bjga7liKnnlKjjgpLjgZnjgovjgZPjgajjgYzjgafjgY3jgarjgYTj
+goLjga7jgajjgZfjgb7jgZnjgILjgZ/jgaDjgZfjgIHjgYvjgYvjgovlpZHntITjga7ntYLkuobjga/j
+gIHlvZPoqbLpgZXlj43jgZfjgZ/lj5fpoJjogIXjgYvjgonoqLHoq77jg5fjg63jgrDjg6njg6Djgb7j
+gZ/jga/mtL7nlJ/jg5fjg63jgrDjg6njg6Djga7phY3luIPjgpLlj5fjgZHjgZ/lj5fpoJjogIXjga7m
+qKnliKnjgavlvbHpn7/jgpLlj4rjgbzjgZnjgoLjga7jgafjga/jgYLjgorjgb7jgZvjgpPjgIINCg0K
+56ys77yV5p2h44CA5rqW5oug5rOVDQoNCjEuSVBB44Gv44CB5pys5aWR57SE44Gu5aSJ5pu044OQ44O8
+44K444On44Oz44G+44Gf44Gv5paw44GX44GE44OQ44O844K444On44Oz44KS5YWs6KGo44GZ44KL44GT
+44Go44GM44Gn44GN44G+44GZ44CC44Gd44Gu5aC05ZCI44Gr44Gv44CB5Y+X6aCY6ICF44Gv44CB6Kix
+6Ku+44OX44Ot44Kw44Op44Og44G+44Gf44Gv5rS+55Sf44OX44Ot44Kw44Op44Og44Gu5L2/55So44CB
+6KSH6KO944Gd44Gu5LuW44Gu5Yip55So44G+44Gf44Gv5YaN6YWN5biD44Gr44GC44Gf44KK44CB5pys
+5aWR57SE44G+44Gf44Gv5aSJ5pu05b6M44Gu5aWR57SE44Gu44GE44Ga44KM44GL44KS6YG45oqe44GZ
+44KL44GT44Go44GM44Gn44GN44G+44GZ44CC44Gd44Gu5LuW44CB5LiK6KiY44Gr6KiY6LyJ44GV44KM
+44Gm44GE44Gq44GE5p2h6aCF44Gr6Zai44GX44Gm44Gv5pel5pys44Gu6JGX5L2c5qip5rOV44GK44KI
+44Gz6Zai6YCj5rOV6KaP44Gr5b6T44GG44KC44Gu44Go44GX44G+44GZ44CCDQoyLuacrOWlkee0hOOB
+r+OAgeaXpeacrOazleOBq+WfuuOBpeOBjeino+mHiOOBleOCjOOBvuOBmeOAgg0KDQoNCi0tLS0tLS0t
+LS0NCg0KSVBBIEZvbnQgTGljZW5zZSBBZ3JlZW1lbnQgdjEuMA0KDQpUaGUgTGljZW5zb3IgcHJvdmlk
+ZXMgdGhlIExpY2Vuc2VkIFByb2dyYW0gKGFzIGRlZmluZWQgaW4gQXJ0aWNsZSAxIGJlbG93KSB1bmRl
+ciB0aGUgdGVybXMgb2YgdGhpcyBsaWNlbnNlIGFncmVlbWVudCAo4oCcQWdyZWVtZW504oCdKS4gIEFu
+eSB1c2UsIHJlcHJvZHVjdGlvbiBvciBkaXN0cmlidXRpb24gb2YgdGhlIExpY2Vuc2VkIFByb2dyYW0s
+IG9yIGFueSBleGVyY2lzZSBvZiByaWdodHMgdW5kZXIgdGhpcyBBZ3JlZW1lbnQgYnkgYSBSZWNpcGll
+bnQgKGFzIGRlZmluZWQgaW4gQXJ0aWNsZSAxIGJlbG93KSBjb25zdGl0dXRlcyB0aGUgUmVjaXBpZW50
+J3MgYWNjZXB0YW5jZSBvZiB0aGlzIEFncmVlbWVudC4gDQoNCkFydGljbGUgMSAoRGVmaW5pdGlvbnMp
+DQoxLuKAnERpZ2l0YWwgRm9udCBQcm9ncmFt4oCdIHNoYWxsIG1lYW4gYSBjb21wdXRlciBwcm9ncmFt
+IGNvbnRhaW5pbmcsIG9yIHVzZWQgdG8gcmVuZGVyIG9yIGRpc3BsYXkgZm9udHMuDQoyLuKAnExpY2Vu
+c2VkIFByb2dyYW3igJ0gc2hhbGwgbWVhbiBhIERpZ2l0YWwgRm9udCBQcm9ncmFtIGxpY2Vuc2VkIGJ5
+IHRoZSBMaWNlbnNvciB1bmRlciB0aGlzIEFncmVlbWVudC4NCjMu4oCcRGVyaXZlZCBQcm9ncmFt4oCd
+IHNoYWxsIG1lYW4gYSBEaWdpdGFsIEZvbnQgUHJvZ3JhbSBjcmVhdGVkIGFzIGEgcmVzdWx0IG9mIGEg
+bW9kaWZpY2F0aW9uLCBhZGRpdGlvbiwgZGVsZXRpb24sIHJlcGxhY2VtZW50IG9yIGFueSBvdGhlciBh
+ZGFwdGF0aW9uIHRvIG9yIG9mIGEgcGFydCBvciBhbGwgb2YgdGhlIExpY2Vuc2VkIFByb2dyYW0sIGFu
+ZCBpbmNsdWRlcyBhIGNhc2Ugd2hlcmUgYSBEaWdpdGFsIEZvbnQgUHJvZ3JhbSBuZXdseSBjcmVhdGVk
+IGJ5IHJldHJpZXZpbmcgZm9udCBpbmZvcm1hdGlvbiBmcm9tIGEgcGFydCBvciBhbGwgb2YgdGhlIExp
+Y2Vuc2VkIFByb2dyYW0gb3IgRW1iZWRkZWQgRm9udHMgZnJvbSBhIERpZ2l0YWwgRG9jdW1lbnQgRmls
+ZSB3aXRoIG9yIHdpdGhvdXQgbW9kaWZpY2F0aW9uIG9mIHRoZSByZXRyaWV2ZWQgZm9udCBpbmZvcm1h
+dGlvbi4gDQo0LuKAnERpZ2l0YWwgQ29udGVudOKAnSBzaGFsbCBtZWFuIHByb2R1Y3RzIHByb3ZpZGVk
+IHRvIGVuZCB1c2VycyBpbiB0aGUgZm9ybSBvZiBkaWdpdGFsIGRhdGEsIGluY2x1ZGluZyB2aWRlbyBj
+b250ZW50LCBtb3Rpb24gYW5kL29yIHN0aWxsIHBpY3R1cmVzLCBUViBwcm9ncmFtcyBvciBvdGhlciBi
+cm9hZGNhc3RpbmcgY29udGVudCBhbmQgcHJvZHVjdHMgY29uc2lzdGluZyBvZiBjaGFyYWN0ZXIgdGV4
+dCwgcGljdHVyZXMsIHBob3RvZ3JhcGhpYyBpbWFnZXMsIGdyYXBoaWMgc3ltYm9scyBhbmQvb3IgdGhl
+IGxpa2UuDQo1LuKAnERpZ2l0YWwgRG9jdW1lbnQgRmlsZeKAnSBzaGFsbCBtZWFuIGEgUERGIGZpbGUg
+b3Igb3RoZXIgRGlnaXRhbCBDb250ZW50IGNyZWF0ZWQgYnkgdmFyaW91cyBzb2Z0d2FyZSBwcm9ncmFt
+cyBpbiB3aGljaCBhIHBhcnQgb3IgYWxsIG9mIHRoZSBMaWNlbnNlZCBQcm9ncmFtIGJlY29tZXMgZW1i
+ZWRkZWQgb3IgY29udGFpbmVkIGluIHRoZSBmaWxlIGZvciB0aGUgZGlzcGxheSBvZiB0aGUgZm9udCAo
+4oCcRW1iZWRkZWQgRm9udHPigJ0pLiAgRW1iZWRkZWQgRm9udHMgYXJlIHVzZWQgb25seSBpbiB0aGUg
+ZGlzcGxheSBvZiBjaGFyYWN0ZXJzIGluIHRoZSBwYXJ0aWN1bGFyIERpZ2l0YWwgRG9jdW1lbnQgRmls
+ZSB3aXRoaW4gd2hpY2ggdGhleSBhcmUgZW1iZWRkZWQsIGFuZCBzaGFsbCBiZSBkaXN0aW5ndWlzaGVk
+IGZyb20gdGhvc2UgaW4gYW55IERpZ2l0YWwgRm9udCBQcm9ncmFtLCB3aGljaCBtYXkgYmUgdXNlZCBm
+b3IgZGlzcGxheSBvZiBjaGFyYWN0ZXJzIG91dHNpZGUgdGhhdCBwYXJ0aWN1bGFyIERpZ2l0YWwgRG9j
+dW1lbnQgRmlsZS4NCjYu4oCcQ29tcHV0ZXLigJ0gc2hhbGwgaW5jbHVkZSBhIHNlcnZlciBpbiB0aGlz
+IEFncmVlbWVudC4NCjcu4oCcUmVwcm9kdWN0aW9uIGFuZCBPdGhlciBFeHBsb2l0YXRpb27igJ0gc2hh
+bGwgbWVhbiByZXByb2R1Y3Rpb24sIHRyYW5zZmVyLCBkaXN0cmlidXRpb24sIGxlYXNlLCBwdWJsaWMg
+dHJhbnNtaXNzaW9uLCBwcmVzZW50YXRpb24sIGV4aGliaXRpb24sIGFkYXB0YXRpb24gYW5kIGFueSBv
+dGhlciBleHBsb2l0YXRpb24uDQo4LuKAnFJlY2lwaWVudOKAnSBzaGFsbCBtZWFuIGFueW9uZSB3aG8g
+cmVjZWl2ZXMgdGhlIExpY2Vuc2VkIFByb2dyYW0gdW5kZXIgdGhpcyBBZ3JlZW1lbnQsIGluY2x1ZGlu
+ZyBvbmUgdGhhdCByZWNlaXZlcyB0aGUgTGljZW5zZWQgUHJvZ3JhbSBmcm9tIGEgUmVjaXBpZW50Lg0K
+DQpBcnRpY2xlIDIgKEdyYW50IG9mIExpY2Vuc2UpDQpUaGUgTGljZW5zb3IgZ3JhbnRzIHRvIHRoZSBS
+ZWNpcGllbnQgYSBsaWNlbnNlIHRvIHVzZSB0aGUgTGljZW5zZWQgUHJvZ3JhbSBpbiBhbnkgYW5kIGFs
+bCBjb3VudHJpZXMgaW4gYWNjb3JkYW5jZSB3aXRoIGVhY2ggb2YgdGhlIHByb3Zpc2lvbnMgc2V0IGZv
+cnRoIGluIHRoaXMgQWdyZWVtZW50LiBIb3dldmVyLCBhbnkgYW5kIGFsbCByaWdodHMgdW5kZXJseWlu
+ZyBpbiB0aGUgTGljZW5zZWQgUHJvZ3JhbSBzaGFsbCBiZSBoZWxkIGJ5IHRoZSBMaWNlbnNvci4gSW4g
+bm8gc2Vuc2UgaXMgdGhpcyBBZ3JlZW1lbnQgaW50ZW5kZWQgdG8gdHJhbnNmZXIgYW55IHJpZ2h0IHJl
+bGF0aW5nIHRvIHRoZSBMaWNlbnNlZCBQcm9ncmFtIGhlbGQgYnkgdGhlIExpY2Vuc29yIGV4Y2VwdCBh
+cyBzcGVjaWZpY2FsbHkgc2V0IGZvcnRoIGhlcmVpbiBvciBhbnkgcmlnaHQgcmVsYXRpbmcgdG8gYW55
+IHRyYWRlbWFyaywgdHJhZGUgbmFtZSwgb3Igc2VydmljZSBtYXJrIHRvIHRoZSBSZWNpcGllbnQuDQoN
+CjEuVGhlIFJlY2lwaWVudCBtYXkgaW5zdGFsbCB0aGUgTGljZW5zZWQgUHJvZ3JhbSBvbiBhbnkgbnVt
+YmVyIG9mIENvbXB1dGVycyBhbmQgdXNlIHRoZSBzYW1lIGluIGFjY29yZGFuY2Ugd2l0aCB0aGUgcHJv
+dmlzaW9ucyBzZXQgZm9ydGggaW4gdGhpcyBBZ3JlZW1lbnQuDQoyLlRoZSBSZWNpcGllbnQgbWF5IHVz
+ZSB0aGUgTGljZW5zZWQgUHJvZ3JhbSwgd2l0aCBvciB3aXRob3V0IG1vZGlmaWNhdGlvbiBpbiBwcmlu
+dGVkIG1hdGVyaWFscyBvciBpbiBEaWdpdGFsIENvbnRlbnQgYXMgYW4gZXhwcmVzc2lvbiBvZiBjaGFy
+YWN0ZXIgdGV4dHMgb3IgdGhlIGxpa2UuDQozLlRoZSBSZWNpcGllbnQgbWF5IGNvbmR1Y3QgUmVwcm9k
+dWN0aW9uIGFuZCBPdGhlciBFeHBsb2l0YXRpb24gb2YgdGhlIHByaW50ZWQgbWF0ZXJpYWxzIGFuZCBE
+aWdpdGFsIENvbnRlbnQgY3JlYXRlZCBpbiBhY2NvcmRhbmNlIHdpdGggdGhlIHByZWNlZGluZyBQYXJh
+Z3JhcGgsIGZvciBjb21tZXJjaWFsIG9yIG5vbi1jb21tZXJjaWFsIHB1cnBvc2VzIGFuZCBpbiBhbnkg
+Zm9ybSBvZiBtZWRpYSBpbmNsdWRpbmcgYnV0IG5vdCBsaW1pdGVkIHRvIGJyb2FkY2FzdGluZywgY29t
+bXVuaWNhdGlvbiBhbmQgdmFyaW91cyByZWNvcmRpbmcgbWVkaWEuDQo0LklmIGFueSBSZWNpcGllbnQg
+ZXh0cmFjdHMgRW1iZWRkZWQgRm9udHMgZnJvbSBhIERpZ2l0YWwgRG9jdW1lbnQgRmlsZSB0byBjcmVh
+dGUgYSBEZXJpdmVkIFByb2dyYW0sIHN1Y2ggRGVyaXZlZCBQcm9ncmFtIHNoYWxsIGJlIHN1YmplY3Qg
+dG8gdGhlIHRlcm1zIG9mIHRoaXMgYWdyZWVtZW50Lg0KNS5JZiBhbnkgUmVjaXBpZW50IHBlcmZvcm1z
+IFJlcHJvZHVjdGlvbiBvciBPdGhlciBFeHBsb2l0YXRpb24gb2YgYSBEaWdpdGFsIERvY3VtZW50IEZp
+bGUgaW4gd2hpY2ggRW1iZWRkZWQgRm9udHMgb2YgdGhlIExpY2Vuc2VkIFByb2dyYW0gYXJlIHVzZWQg
+b25seSBmb3IgcmVuZGVyaW5nIHRoZSBEaWdpdGFsIENvbnRlbnQgd2l0aGluIHN1Y2ggRGlnaXRhbCBE
+b2N1bWVudCBGaWxlIHRoZW4gc3VjaCBSZWNpcGllbnQgc2hhbGwgaGF2ZSBubyBmdXJ0aGVyIG9ibGln
+YXRpb25zIHVuZGVyIHRoaXMgQWdyZWVtZW50IGluIHJlbGF0aW9uIHRvIHN1Y2ggYWN0aW9ucy4NCjYu
+VGhlIFJlY2lwaWVudCBtYXkgcmVwcm9kdWNlIHRoZSBMaWNlbnNlZCBQcm9ncmFtIGFzIGlzIHdpdGhv
+dXQgbW9kaWZpY2F0aW9uIGFuZCB0cmFuc2ZlciBzdWNoIGNvcGllcywgcHVibGljbHkgdHJhbnNtaXQg
+b3Igb3RoZXJ3aXNlIHJlZGlzdHJpYnV0ZSB0aGUgTGljZW5zZWQgUHJvZ3JhbSB0byBhIHRoaXJkIHBh
+cnR5IGZvciBjb21tZXJjaWFsIG9yIG5vbi1jb21tZXJjaWFsIHB1cnBvc2VzICjigJxSZWRpc3RyaWJ1
+dGXigJ0pLCBpbiBhY2NvcmRhbmNlIHdpdGggdGhlIHByb3Zpc2lvbnMgc2V0IGZvcnRoIGluIEFydGlj
+bGUgMyBQYXJhZ3JhcGggMi4NCjcuVGhlIFJlY2lwaWVudCBtYXkgY3JlYXRlLCB1c2UsIHJlcHJvZHVj
+ZSBhbmQvb3IgUmVkaXN0cmlidXRlIGEgRGVyaXZlZCBQcm9ncmFtIHVuZGVyIHRoZSB0ZXJtcyBzdGF0
+ZWQgYWJvdmUgZm9yIHRoZSBMaWNlbnNlZCBQcm9ncmFtOiBwcm92aWRlZCwgdGhhdCB0aGUgUmVjaXBp
+ZW50IHNoYWxsIGZvbGxvdyB0aGUgcHJvdmlzaW9ucyBzZXQgZm9ydGggaW4gQXJ0aWNsZSAzIFBhcmFn
+cmFwaCAxIHdoZW4gUmVkaXN0cmlidXRpbmcgdGhlIERlcml2ZWQgUHJvZ3JhbS4gDQoNCkFydGljbGUg
+MyAoUmVzdHJpY3Rpb24pDQpUaGUgbGljZW5zZSBncmFudGVkIGluIHRoZSBwcmVjZWRpbmcgQXJ0aWNs
+ZSBzaGFsbCBiZSBzdWJqZWN0IHRvIHRoZSBmb2xsb3dpbmcgcmVzdHJpY3Rpb25zOg0KDQoxLklmIGEg
+RGVyaXZlZCBQcm9ncmFtIGlzIFJlZGlzdHJpYnV0ZWQgcHVyc3VhbnQgdG8gUGFyYWdyYXBoIDQgYW5k
+IDcgb2YgdGhlIHByZWNlZGluZyBBcnRpY2xlLCB0aGUgZm9sbG93aW5nIGNvbmRpdGlvbnMgbXVzdCBi
+ZSBtZXQgOg0K44CAKDEpVGhlIGZvbGxvd2luZyBtdXN0IGJlIGFsc28gUmVkaXN0cmlidXRlZCB0b2dl
+dGhlciB3aXRoIHRoZSBEZXJpdmVkIFByb2dyYW0sIG9yIGJlIG1hZGUgYXZhaWxhYmxlIG9ubGluZSBv
+ciBieSBtZWFucyBvZiBtYWlsaW5nIG1lY2hhbmlzbXMgaW4gZXhjaGFuZ2UgZm9yIGEgY29zdCB3aGlj
+aCBkb2VzIG5vdCBleGNlZWQgdGhlIHRvdGFsIGNvc3RzIG9mIHBvc3RhZ2UsIHN0b3JhZ2UgbWVkaXVt
+IGFuZCBoYW5kbGluZyBmZWVzOg0K44CA44CAKGEpYSBjb3B5IG9mIHRoZSBEZXJpdmVkIFByb2dyYW07
+IGFuZA0K44CA44CAKGIpYW55IGFkZGl0aW9uYWwgZmlsZSBjcmVhdGVkIGJ5IHRoZSBmb250IGRldmVs
+b3BpbmcgcHJvZ3JhbSBpbiB0aGUgY291cnNlIG9mIGNyZWF0aW5nIHRoZSBEZXJpdmVkIFByb2dyYW0g
+dGhhdCBjYW4gYmUgdXNlZCBmb3IgZnVydGhlciBtb2RpZmljYXRpb24gb2YgdGhlIERlcml2ZWQgUHJv
+Z3JhbSwgaWYgYW55LiANCuOAgCgyKUl0IGlzIHJlcXVpcmVkIHRvIGFsc28gUmVkaXN0cmlidXRlIG1l
+YW5zIHRvIGVuYWJsZSByZWNpcGllbnRzIG9mIHRoZSBEZXJpdmVkIFByb2dyYW0gdG8gcmVwbGFjZSB0
+aGUgRGVyaXZlZCBQcm9ncmFtIHdpdGggdGhlIExpY2Vuc2VkIFByb2dyYW0gZmlyc3QgcmVsZWFzZWQg
+dW5kZXIgdGhpcyBMaWNlbnNlICh0aGUg4oCcT3JpZ2luYWwgUHJvZ3JhbeKAnSkuICBTdWNoIG1lYW5z
+IG1heSBiZSB0byBwcm92aWRlIGEgZGlmZmVyZW5jZSBmaWxlIGZyb20gdGhlIE9yaWdpbmFsIFByb2dy
+YW0sIG9yIGluc3RydWN0aW9ucyBzZXR0aW5nIG91dCBhIG1ldGhvZCB0byByZXBsYWNlIHRoZSBEZXJp
+dmVkIFByb2dyYW0gd2l0aCB0aGUgT3JpZ2luYWwgUHJvZ3JhbS4gDQrjgIAoMylUaGUgUmVjaXBpZW50
+IG11c3QgbGljZW5zZSB0aGUgRGVyaXZlZCBQcm9ncmFtIHVuZGVyIHRoZSB0ZXJtcyBhbmQgY29uZGl0
+aW9ucyBvZiB0aGlzIEFncmVlbWVudC4NCuOAgCg0KU5vIG9uZSBtYXkgdXNlIG9yIGluY2x1ZGUgdGhl
+IG5hbWUgb2YgdGhlIExpY2Vuc2VkIFByb2dyYW0gYXMgYSBwcm9ncmFtIG5hbWUsIGZvbnQgbmFtZSBv
+ciBmaWxlIG5hbWUgb2YgdGhlIERlcml2ZWQgUHJvZ3JhbS4gDQrjgIAoNSlBbnkgbWF0ZXJpYWwgdG8g
+YmUgbWFkZSBhdmFpbGFibGUgb25saW5lIG9yIGJ5IG1lYW5zIG9mIG1haWxpbmcgYSBtZWRpdW0gdG8g
+c2F0aXNmeSB0aGUgcmVxdWlyZW1lbnRzIG9mIHRoaXMgcGFyYWdyYXBoIG1heSBiZSBwcm92aWRlZCwg
+dmVyYmF0aW0sIGJ5IGFueSBwYXJ0eSB3aXNoaW5nIHRvIGRvIHNvLg0KMi5JZiB0aGUgUmVjaXBpZW50
+IFJlZGlzdHJpYnV0ZXMgdGhlIExpY2Vuc2VkIFByb2dyYW0gcHVyc3VhbnQgdG8gUGFyYWdyYXBoIDYg
+b2YgdGhlIHByZWNlZGluZyBBcnRpY2xlLCB0aGUgUmVjaXBpZW50IHNoYWxsIG1lZXQgYWxsIG9mIHRo
+ZSBmb2xsb3dpbmcgY29uZGl0aW9uczoNCuOAgCgxKVRoZSBSZWNpcGllbnQgbWF5IG5vdCBjaGFuZ2Ug
+dGhlIG5hbWUgb2YgdGhlIExpY2Vuc2VkIFByb2dyYW0uDQrjgIAoMilUaGUgUmVjaXBpZW50IG1heSBu
+b3QgYWx0ZXIgb3Igb3RoZXJ3aXNlIG1vZGlmeSB0aGUgTGljZW5zZWQgUHJvZ3JhbS4NCuOAgCgzKVRo
+ZSBSZWNpcGllbnQgbXVzdCBhdHRhY2ggYSBjb3B5IG9mIHRoaXMgQWdyZWVtZW50IHRvIHRoZSBMaWNl
+bnNlZCBQcm9ncmFtLg0KMy5USElTIExJQ0VOU0VEIFBST0dSQU0gSVMgUFJPVklERUQgQlkgVEhFIExJ
+Q0VOU09SIOKAnEFTIElT4oCdIEFORCBBTlkgRVhQUkVTU0VEIE9SIElNUExJRUQgV0FSUkFOVFkgQVMg
+VE8gVEhFIExJQ0VOU0VEIFBST0dSQU0gT1IgQU5ZIERFUklWRUQgUFJPR1JBTSwgSU5DTFVESU5HLCBC
+VVQgTk9UIExJTUlURUQgVE8sIFdBUlJBTlRJRVMgT0YgVElUTEUsIE5PTi1JTkZSSU5HRU1FTlQsIE1F
+UkNIQU5UQUJJTElUWSwgT1IgRklUTkVTUyBGT1IgQSBQQVJUSUNVTEFSIFBVUlBPU0UsIEFSRSBESVND
+TEFJTUVELiAgSU4gTk8gRVZFTlQgU0hBTEwgVEhFIExJQ0VOU09SIEJFIExJQUJMRSBGT1IgQU5ZIERJ
+UkVDVCwgSU5ESVJFQ1QsIElOQ0lERU5UQUwsIFNQRUNJQUwsIEVYVEVOREVELCBFWEVNUExBUlksIE9S
+IENPTlNFUVVFTlRJQUwgREFNQUdFUyAoSU5DTFVESU5HLCBCVVQgTk9UIExJTUlURUQgVE87IFBST0NV
+UkVNRU5UIE9GIFNVQlNUSVRVVEVEIEdPT0RTIE9SIFNFUlZJQ0U7IERBTUFHRVMgQVJJU0lORyBGUk9N
+IFNZU1RFTSBGQUlMVVJFOyBMT1NTIE9SIENPUlJVUFRJT04gT0YgRVhJU1RJTkcgREFUQSBPUiBQUk9H
+UkFNOyBMT1NUIFBST0ZJVFMpLCBIT1dFVkVSIENBVVNFRCBBTkQgT04gQU5ZIFRIRU9SWSBPRiBMSUFC
+SUxJVFksIFdIRVRIRVIgSU4gQ09OVFJBQ1QsIFNUUklDVCBMSUFCSUxJVFkgT1IgVE9SVCAoSU5DTFVE
+SU5HIE5FR0xJR0VOQ0UgT1IgT1RIRVJXSVNFKSBBUklTSU5HIElOIEFOWSBXQVkgT1VUIE9GIFRIRSBJ
+TlNUQUxMQVRJT04sIFVTRSwgVEhFIFJFUFJPRFVDVElPTiBPUiBPVEhFUiBFWFBMT0lUQVRJT04gT0Yg
+VEhFIExJQ0VOU0VEIFBST0dSQU0gT1IgQU5ZIERFUklWRUQgUFJPR1JBTSBPUiBUSEUgRVhFUkNJU0Ug
+T0YgQU5ZIFJJR0hUUyBHUkFOVEVEIEhFUkVVTkRFUiwgRVZFTiBJRiBBRFZJU0VEIE9GIFRIRSBQT1NT
+SUJJTElUWSBPRiBTVUNIIERBTUFHRVMuDQo0LlRoZSBMaWNlbnNvciBpcyB1bmRlciBubyBvYmxpZ2F0
+aW9uIHRvIHJlc3BvbmQgdG8gYW55IHRlY2huaWNhbCBxdWVzdGlvbnMgb3IgaW5xdWlyaWVzLCBvciBw
+cm92aWRlIGFueSBvdGhlciB1c2VyIHN1cHBvcnQgaW4gY29ubmVjdGlvbiB3aXRoIHRoZSBpbnN0YWxs
+YXRpb24sIHVzZSBvciB0aGUgUmVwcm9kdWN0aW9uIGFuZCBPdGhlciBFeHBsb2l0YXRpb24gb2YgdGhl
+IExpY2Vuc2VkIFByb2dyYW0gb3IgRGVyaXZlZCBQcm9ncmFtcyB0aGVyZW9mLg0KDQpBcnRpY2xlIDQg
+KFRlcm1pbmF0aW9uIG9mIEFncmVlbWVudCkNCjEuVGhlIHRlcm0gb2YgdGhpcyBBZ3JlZW1lbnQgc2hh
+bGwgYmVnaW4gZnJvbSB0aGUgdGltZSBvZiByZWNlaXB0IG9mIHRoZSBMaWNlbnNlZCBQcm9ncmFtIGJ5
+IHRoZSBSZWNpcGllbnQgYW5kIHNoYWxsIGNvbnRpbnVlIGFzIGxvbmcgYXMgdGhlIFJlY2lwaWVudCBy
+ZXRhaW5zIGFueSBzdWNoIExpY2Vuc2VkIFByb2dyYW0gaW4gYW55IHdheS4NCjIuTm90d2l0aHN0YW5k
+aW5nIHRoZSBwcm92aXNpb24gc2V0IGZvcnRoIGluIHRoZSBwcmVjZWRpbmcgUGFyYWdyYXBoLCBpbiB0
+aGUgZXZlbnQgb2YgdGhlIGJyZWFjaCBvZiBhbnkgb2YgdGhlIHByb3Zpc2lvbnMgc2V0IGZvcnRoIGlu
+IHRoaXMgQWdyZWVtZW50IGJ5IHRoZSBSZWNpcGllbnQsIHRoaXMgQWdyZWVtZW50IHNoYWxsIGF1dG9t
+YXRpY2FsbHkgdGVybWluYXRlIHdpdGhvdXQgYW55IG5vdGljZS4gSW4gdGhlIGNhc2Ugb2Ygc3VjaCB0
+ZXJtaW5hdGlvbiwgdGhlIFJlY2lwaWVudCBtYXkgbm90IHVzZSBvciBjb25kdWN0IFJlcHJvZHVjdGlv
+biBhbmQgT3RoZXIgRXhwbG9pdGF0aW9uIG9mIHRoZSBMaWNlbnNlZCBQcm9ncmFtIG9yIGEgRGVyaXZl
+ZCBQcm9ncmFtOiBwcm92aWRlZCB0aGF0IHN1Y2ggdGVybWluYXRpb24gc2hhbGwgbm90IGFmZmVjdCBh
+bnkgcmlnaHRzIG9mIGFueSBvdGhlciBSZWNpcGllbnQgcmVjZWl2aW5nIHRoZSBMaWNlbnNlZCBQcm9n
+cmFtIG9yIHRoZSBEZXJpdmVkIFByb2dyYW0gZnJvbSBzdWNoIFJlY2lwaWVudCB3aG8gYnJlYWNoZWQg
+dGhpcyBBZ3JlZW1lbnQuDQoNCkFydGljbGUgNSAoR292ZXJuaW5nIExhdykNCjEuSVBBIG1heSBwdWJs
+aXNoIHJldmlzZWQgYW5kL29yIG5ldyB2ZXJzaW9ucyBvZiB0aGlzIExpY2Vuc2UuICBJbiBzdWNoIGFu
+IGV2ZW50LCB0aGUgUmVjaXBpZW50IG1heSBzZWxlY3QgZWl0aGVyIHRoaXMgQWdyZWVtZW50IG9yIGFu
+eSBzdWJzZXF1ZW50IHZlcnNpb24gb2YgdGhlIEFncmVlbWVudCBpbiB1c2luZywgY29uZHVjdGluZyB0
+aGUgUmVwcm9kdWN0aW9uIGFuZCBPdGhlciBFeHBsb2l0YXRpb24gb2YsIG9yIFJlZGlzdHJpYnV0aW5n
+IHRoZSBMaWNlbnNlZCBQcm9ncmFtIG9yIGEgRGVyaXZlZCBQcm9ncmFtLiBPdGhlciBtYXR0ZXJzIG5v
+dCBzcGVjaWZpZWQgYWJvdmUgc2hhbGwgYmUgc3ViamVjdCB0byB0aGUgQ29weXJpZ2h0IExhdyBvZiBK
+YXBhbiBhbmQgb3RoZXIgcmVsYXRlZCBsYXdzIGFuZCByZWd1bGF0aW9ucyBvZiBKYXBhbi4NCjIuVGhp
+cyBBZ3JlZW1lbnQgc2hhbGwgYmUgY29uc3RydWVkIHVuZGVyIHRoZSBsYXdzIG9mIEphcGFuLg0KDQo</string>
+						<object class="IBUITextInputTraits" key="IBUITextInputTraits">
+							<int key="IBUIAutocapitalizationType">2</int>
+							<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						</object>
+					</object>
+					<object class="IBUINavigationBar" id="276751487">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">290</int>
+						<string key="NSFrameSize">{320, 44}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIBarStyle">1</int>
+						<object class="NSArray" key="IBUIItems">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<object class="IBUINavigationItem" id="347635806">
+								<reference key="IBUINavigationBar" ref="276751487"/>
+								<string key="IBUITitle"/>
+								<object class="IBUIBarButtonItem" key="IBUILeftBarButtonItem" id="133372997">
+									<string key="IBUITitle">Done</string>
+									<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+									<int key="IBUIStyle">1</int>
+									<reference key="IBUINavigationItem" ref="347635806"/>
+								</object>
+								<object class="IBUIBarButtonItem" key="IBUIRightBarButtonItem" id="394999182">
+									<string key="IBUITitle">Safari</string>
+									<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+									<int key="IBUIStyle">1</int>
+									<reference key="IBUINavigationItem" ref="347635806"/>
+								</object>
+								<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+							</object>
+						</object>
+					</object>
+				</object>
+				<string key="NSFrameSize">{320, 460}</string>
+				<reference key="NSSuperview"/>
+				<object class="NSColor" key="IBUIBackgroundColor">
+					<int key="NSColorSpace">3</int>
+					<bytes key="NSWhite">MQA</bytes>
+					<object class="NSColorSpace" key="NSCustomColorSpace">
+						<int key="NSID">2</int>
+					</object>
+				</object>
+				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+		</object>
+		<object class="IBObjectContainer" key="IBDocument.Objects">
+			<object class="NSMutableArray" key="connectionRecords">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">view</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="191373211"/>
+					</object>
+					<int key="connectionID">3</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">openSafari</string>
+						<reference key="source" ref="394999182"/>
+						<reference key="destination" ref="372490531"/>
+					</object>
+					<int key="connectionID">21</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">closeThisView</string>
+						<reference key="source" ref="133372997"/>
+						<reference key="destination" ref="372490531"/>
+					</object>
+					<int key="connectionID">22</int>
+				</object>
+			</object>
+			<object class="IBMutableOrderedSet" key="objectRecords">
+				<object class="NSArray" key="orderedObjects">
+					<bool key="EncodedWithXMLCoder">YES</bool>
+					<object class="IBObjectRecord">
+						<int key="objectID">0</int>
+						<reference key="object" ref="0"/>
+						<reference key="children" ref="1000"/>
+						<nil key="parent"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">1</int>
+						<reference key="object" ref="191373211"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="276751487"/>
+							<reference ref="494312326"/>
+						</object>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">-1</int>
+						<reference key="object" ref="372490531"/>
+						<reference key="parent" ref="0"/>
+						<string key="objectName">File's Owner</string>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">-2</int>
+						<reference key="object" ref="975951072"/>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">13</int>
+						<reference key="object" ref="276751487"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="347635806"/>
+						</object>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">14</int>
+						<reference key="object" ref="347635806"/>
+						<object class="NSMutableArray" key="children">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<reference ref="133372997"/>
+							<reference ref="394999182"/>
+						</object>
+						<reference key="parent" ref="276751487"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">15</int>
+						<reference key="object" ref="133372997"/>
+						<reference key="parent" ref="347635806"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">16</int>
+						<reference key="object" ref="394999182"/>
+						<reference key="parent" ref="347635806"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">23</int>
+						<reference key="object" ref="494312326"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+				</object>
+			</object>
+			<object class="NSMutableDictionary" key="flattenedProperties">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<object class="NSArray" key="dict.sortedKeys">
+					<bool key="EncodedWithXMLCoder">YES</bool>
+					<string>-1.CustomClassName</string>
+					<string>-2.CustomClassName</string>
+					<string>1.IBEditorWindowLastContentRect</string>
+					<string>1.IBPluginDependency</string>
+					<string>13.IBPluginDependency</string>
+					<string>14.IBPluginDependency</string>
+					<string>15.IBPluginDependency</string>
+					<string>16.IBPluginDependency</string>
+					<string>23.IBPluginDependency</string>
+				</object>
+				<object class="NSMutableArray" key="dict.values">
+					<bool key="EncodedWithXMLCoder">YES</bool>
+					<string>QuickWebViewController</string>
+					<string>UIResponder</string>
+					<string>{{556, 412}, {320, 480}}</string>
+					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				</object>
+			</object>
+			<object class="NSMutableDictionary" key="unlocalizedProperties">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<reference key="dict.sortedKeys" ref="0"/>
+				<object class="NSMutableArray" key="dict.values">
+					<bool key="EncodedWithXMLCoder">YES</bool>
+				</object>
+			</object>
+			<nil key="activeLocalization"/>
+			<object class="NSMutableDictionary" key="localizations">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<reference key="dict.sortedKeys" ref="0"/>
+				<object class="NSMutableArray" key="dict.values">
+					<bool key="EncodedWithXMLCoder">YES</bool>
+				</object>
+			</object>
+			<nil key="sourceID"/>
+			<int key="maxID">23</int>
+		</object>
+		<object class="IBClassDescriber" key="IBDocument.Classes">
+			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<object class="IBPartialClassDescription">
+					<string key="className">QuickWebViewController</string>
+					<string key="superclassName">UIViewController</string>
+					<object class="NSMutableDictionary" key="actions">
+						<bool key="EncodedWithXMLCoder">YES</bool>
+						<object class="NSArray" key="dict.sortedKeys">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>closeThisView</string>
+							<string>openSafari</string>
+						</object>
+						<object class="NSMutableArray" key="dict.values">
+							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>id</string>
+							<string>id</string>
+						</object>
+					</object>
+					<object class="NSMutableDictionary" key="outlets">
+						<string key="NS.key.0">webView</string>
+						<string key="NS.object.0">UIWebView</string>
+					</object>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">QuickWebViewController.h</string>
+					</object>
+				</object>
+			</object>
+			<object class="NSMutableArray" key="referencedPartialClassDescriptionsV3.2+">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSError.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSFileManager.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSKeyValueCoding.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSKeyValueObserving.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSKeyedArchiver.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSNetServices.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSObject.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSPort.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSRunLoop.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSStream.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSThread.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSURL.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSURLConnection.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">Foundation.framework/Headers/NSXMLParser.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIAccessibility.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UINibLoading.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier" id="1065632533">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIResponder.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIBarButtonItem</string>
+					<string key="superclassName">UIBarItem</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIBarButtonItem.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIBarItem</string>
+					<string key="superclassName">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIBarItem.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UINavigationBar</string>
+					<string key="superclassName">UIView</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier" id="1047765696">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UINavigationBar.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UINavigationItem</string>
+					<string key="superclassName">NSObject</string>
+					<reference key="sourceIdentifier" ref="1047765696"/>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIResponder</string>
+					<string key="superclassName">NSObject</string>
+					<reference key="sourceIdentifier" ref="1065632533"/>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIScrollView</string>
+					<string key="superclassName">UIView</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIScrollView.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UISearchBar</string>
+					<string key="superclassName">UIView</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UISearchBar.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UISearchDisplayController</string>
+					<string key="superclassName">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UISearchDisplayController.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UITextView</string>
+					<string key="superclassName">UIScrollView</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UITextView.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIView</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UITextField.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIView</string>
+					<string key="superclassName">UIResponder</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIView.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIViewController</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UINavigationController.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIViewController</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UITabBarController.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIViewController</string>
+					<string key="superclassName">UIResponder</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIViewController.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">UIWebView</string>
+					<string key="superclassName">UIView</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIWebView.h</string>
+					</object>
+				</object>
+			</object>
+		</object>
+		<int key="IBDocument.localizationMode">0</int>
+		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaTouchFramework</string>
+		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencyDefaults">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.iPhoneOS</string>
+			<integer value="768" key="NS.object.0"/>
+		</object>
+		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDevelopmentDependencies">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.InterfaceBuilder3</string>
+			<integer value="3000" key="NS.object.0"/>
+		</object>
+		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
+		<string key="IBDocument.LastKnownRelativeProjectPath">DekaMoji.xcodeproj</string>
+		<int key="IBDocument.defaultPropertyAccessControl">3</int>
+		<string key="IBCocoaTouchPluginVersion">87</string>
+	</data>
+</archive>

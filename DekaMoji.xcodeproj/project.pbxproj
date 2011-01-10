@@ -1,0 +1,552 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* DekaMojiAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* DekaMojiAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754A0DD40C5E005A515E /* FlipsideView.xib */; };
+		280E754E0DD40C5E005A515E /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754B0DD40C5E005A515E /* MainView.xib */; };
+		280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754C0DD40C5E005A515E /* MainWindow.xib */; };
+		289233A60DB2D0840083E9F9 /* FlipsideView.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */; };
+		289233A70DB2D0840083E9F9 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A50DB2D0840083E9F9 /* MainView.m */; };
+		289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */; };
+		289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */; };
+		AC28092611C123360029848B /* FlipsideViewController-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC28092411C123360029848B /* FlipsideViewController-iPad.xib */; };
+		AC29812D11B3D9F30076901C /* FontLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = AC29812311B3D9F30076901C /* FontLabel.m */; };
+		AC29812E11B3D9F30076901C /* FontLabelStringDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = AC29812511B3D9F30076901C /* FontLabelStringDrawing.m */; };
+		AC29812F11B3D9F30076901C /* FontManager.m in Sources */ = {isa = PBXBuildFile; fileRef = AC29812711B3D9F30076901C /* FontManager.m */; };
+		AC29813011B3D9F30076901C /* ZAttributedString.m in Sources */ = {isa = PBXBuildFile; fileRef = AC29812911B3D9F30076901C /* ZAttributedString.m */; };
+		AC29813111B3D9F30076901C /* ZFont.m in Sources */ = {isa = PBXBuildFile; fileRef = AC29812C11B3D9F30076901C /* ZFont.m */; };
+		AC2981B011B3E7450076901C /* ipamp.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AC2981AE11B3E7450076901C /* ipamp.ttf */; };
+		AC2981BD11B3EA5B0076901C /* QuickWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2981BC11B3EA5B0076901C /* QuickWebViewController.m */; };
+		AC2981BF11B3EA680076901C /* QuickWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2981BE11B3EA680076901C /* QuickWebViewController.xib */; };
+		AC2981CB11B3ECA70076901C /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2981CA11B3ECA70076901C /* MainWindow-iPad.xib */; };
+		AC2981CF11B3ECF90076901C /* DekaMojiAppDelegate-iPad.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2981CE11B3ECF90076901C /* DekaMojiAppDelegate-iPad.m */; };
+		AC2981D311B3ED760076901C /* MainViewController-iPad.m in Sources */ = {isa = PBXBuildFile; fileRef = AC2981D111B3ED760076901C /* MainViewController-iPad.m */; };
+		AC2981D411B3ED760076901C /* MainViewController-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC2981D211B3ED760076901C /* MainViewController-iPad.xib */; };
+		AC8419D411C118D6006AF5E0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC8419D311C118D6006AF5E0 /* CoreGraphics.framework */; };
+		AC8419D811C118DD006AF5E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC8419D711C118DD006AF5E0 /* Foundation.framework */; };
+		AC8419DC11C118E4006AF5E0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC8419DB11C118E4006AF5E0 /* UIKit.framework */; };
+		ACADE39B11B53C6A00917DE8 /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = ACADE39A11B53C6A00917DE8 /* Default-Portrait.png */; };
+		ACADE39D11B53C7000917DE8 /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = ACADE39C11B53C7000917DE8 /* Default-Landscape.png */; };
+		ACB7EFAE10332B410029A5CC /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACB7EFAD10332B410029A5CC /* 9.jpg */; };
+		ACB7EFB210332B620029A5CC /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACB7EFB110332B620029A5CC /* 6.jpg */; };
+		ACB7EFB410332B7E0029A5CC /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACB7EFB310332B7E0029A5CC /* 8.jpg */; };
+		ACD8C8A51033272F00459B30 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACD8C8A01033272F00459B30 /* 2.jpg */; };
+		ACD8C8A71033272F00459B30 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACD8C8A21033272F00459B30 /* 5.jpg */; };
+		ACD8C8A81033272F00459B30 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACD8C8A31033272F00459B30 /* 1.jpg */; };
+		ACD8C8B41033287700459B30 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACD8C8B31033287700459B30 /* 4.jpg */; };
+		ACD8C8B61033289600459B30 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACD8C8B51033289600459B30 /* 3.jpg */; };
+		ACD8C8B8103328BB00459B30 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACD8C8B7103328BB00459B30 /* 7.jpg */; };
+		ACD8C8BA1033293900459B30 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACD8C8B91033293900459B30 /* 10.jpg */; };
+		ACDFA8D11220F268008EC9A3 /* libYieldMaker_dev.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACDFA8CE1220F267008EC9A3 /* libYieldMaker_dev.a */; };
+		ACDFA8D21220F268008EC9A3 /* libYieldMaker_sim.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ACDFA8CF1220F268008EC9A3 /* libYieldMaker_sim.a */; };
+		ACDFA9C61220FD96008EC9A3 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = ACDFA9C51220FD96008EC9A3 /* Default.png */; };
+		ACE966EB12210EBC0083AF3F /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACE966EA12210EBC0083AF3F /* SystemConfiguration.framework */; };
+		ACEAC5521221053700B28F06 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = ACEAC54C1221053700B28F06 /* Icon-72.png */; };
+		ACEAC5531221053700B28F06 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = ACEAC54D1221053700B28F06 /* Icon-Small-50.png */; };
+		ACEAC5541221053700B28F06 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = ACEAC54E1221053700B28F06 /* Icon-Small.png */; };
+		ACEAC5551221053700B28F06 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACEAC54F1221053700B28F06 /* Icon-Small@2x.png */; };
+		ACEAC5561221053700B28F06 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = ACEAC5501221053700B28F06 /* Icon.png */; };
+		ACEAC5571221053700B28F06 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = ACEAC5511221053700B28F06 /* Icon@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D3623240D0F684500981E51 /* DekaMojiAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DekaMojiAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* DekaMojiAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DekaMojiAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* DekaMoji.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DekaMoji.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		280E754A0DD40C5E005A515E /* FlipsideView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FlipsideView.xib; sourceTree = "<group>"; };
+		280E754B0DD40C5E005A515E /* MainView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainView.xib; sourceTree = "<group>"; };
+		280E754C0DD40C5E005A515E /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		289233A20DB2D0840083E9F9 /* FlipsideView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlipsideView.h; path = Classes/FlipsideView.h; sourceTree = "<group>"; };
+		289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlipsideView.m; path = Classes/FlipsideView.m; sourceTree = "<group>"; };
+		289233A40DB2D0840083E9F9 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainView.h; path = Classes/MainView.h; sourceTree = "<group>"; };
+		289233A50DB2D0840083E9F9 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainView.m; path = Classes/MainView.m; sourceTree = "<group>"; };
+		289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainViewController.h; path = Classes/MainViewController.h; sourceTree = "<group>"; };
+		289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = Classes/MainViewController.m; sourceTree = "<group>"; };
+		289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlipsideViewController.h; path = Classes/FlipsideViewController.h; sourceTree = "<group>"; };
+		289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlipsideViewController.m; path = Classes/FlipsideViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* DekaMoji_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DekaMoji_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* DekaMoji-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "DekaMoji-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		AC161A391035F35A00FD3B08 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		AC28092411C123360029848B /* FlipsideViewController-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = "FlipsideViewController-iPad.xib"; sourceTree = "<group>"; };
+		AC29812211B3D9F30076901C /* FontLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FontLabel.h; sourceTree = "<group>"; };
+		AC29812311B3D9F30076901C /* FontLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FontLabel.m; sourceTree = "<group>"; };
+		AC29812411B3D9F30076901C /* FontLabelStringDrawing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FontLabelStringDrawing.h; sourceTree = "<group>"; };
+		AC29812511B3D9F30076901C /* FontLabelStringDrawing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FontLabelStringDrawing.m; sourceTree = "<group>"; };
+		AC29812611B3D9F30076901C /* FontManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FontManager.h; sourceTree = "<group>"; };
+		AC29812711B3D9F30076901C /* FontManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FontManager.m; sourceTree = "<group>"; };
+		AC29812811B3D9F30076901C /* ZAttributedString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZAttributedString.h; sourceTree = "<group>"; };
+		AC29812911B3D9F30076901C /* ZAttributedString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZAttributedString.m; sourceTree = "<group>"; };
+		AC29812A11B3D9F30076901C /* ZAttributedStringPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZAttributedStringPrivate.h; sourceTree = "<group>"; };
+		AC29812B11B3D9F30076901C /* ZFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFont.h; sourceTree = "<group>"; };
+		AC29812C11B3D9F30076901C /* ZFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFont.m; sourceTree = "<group>"; };
+		AC2981AE11B3E7450076901C /* ipamp.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ipamp.ttf; sourceTree = "<group>"; };
+		AC2981BB11B3EA5B0076901C /* QuickWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuickWebViewController.h; sourceTree = "<group>"; };
+		AC2981BC11B3EA5B0076901C /* QuickWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuickWebViewController.m; sourceTree = "<group>"; };
+		AC2981BE11B3EA680076901C /* QuickWebViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = QuickWebViewController.xib; sourceTree = "<group>"; };
+		AC2981CA11B3ECA70076901C /* MainWindow-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = "MainWindow-iPad.xib"; sourceTree = "<group>"; };
+		AC2981CD11B3ECF90076901C /* DekaMojiAppDelegate-iPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DekaMojiAppDelegate-iPad.h"; sourceTree = "<group>"; };
+		AC2981CE11B3ECF90076901C /* DekaMojiAppDelegate-iPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "DekaMojiAppDelegate-iPad.m"; sourceTree = "<group>"; };
+		AC2981D011B3ED760076901C /* MainViewController-iPad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MainViewController-iPad.h"; sourceTree = "<group>"; };
+		AC2981D111B3ED760076901C /* MainViewController-iPad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MainViewController-iPad.m"; sourceTree = "<group>"; };
+		AC2981D211B3ED760076901C /* MainViewController-iPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = "MainViewController-iPad.xib"; sourceTree = "<group>"; };
+		AC8419D311C118D6006AF5E0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		AC8419D711C118DD006AF5E0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		AC8419DB11C118E4006AF5E0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		ACADE39A11B53C6A00917DE8 /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait.png"; sourceTree = "<group>"; };
+		ACADE39C11B53C7000917DE8 /* Default-Landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape.png"; sourceTree = "<group>"; };
+		ACB7EFAD10332B410029A5CC /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		ACB7EFB110332B620029A5CC /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		ACB7EFB310332B7E0029A5CC /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		ACD8C8A01033272F00459B30 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		ACD8C8A21033272F00459B30 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		ACD8C8A31033272F00459B30 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		ACD8C8B31033287700459B30 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		ACD8C8B51033289600459B30 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		ACD8C8B7103328BB00459B30 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		ACD8C8B91033293900459B30 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		ACDFA8CE1220F267008EC9A3 /* libYieldMaker_dev.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libYieldMaker_dev.a; sourceTree = "<group>"; };
+		ACDFA8CF1220F268008EC9A3 /* libYieldMaker_sim.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libYieldMaker_sim.a; sourceTree = "<group>"; };
+		ACDFA8D01220F268008EC9A3 /* YieldMakerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YieldMakerView.h; sourceTree = "<group>"; };
+		ACDFA9C51220FD96008EC9A3 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		ACE966EA12210EBC0083AF3F /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		ACEAC54C1221053700B28F06 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		ACEAC54D1221053700B28F06 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		ACEAC54E1221053700B28F06 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		ACEAC54F1221053700B28F06 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		ACEAC5501221053700B28F06 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		ACEAC5511221053700B28F06 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC8419D411C118D6006AF5E0 /* CoreGraphics.framework in Frameworks */,
+				AC8419D811C118DD006AF5E0 /* Foundation.framework in Frameworks */,
+				AC8419DC11C118E4006AF5E0 /* UIKit.framework in Frameworks */,
+				ACDFA8D11220F268008EC9A3 /* libYieldMaker_dev.a in Frameworks */,
+				ACDFA8D21220F268008EC9A3 /* libYieldMaker_sim.a in Frameworks */,
+				ACE966EB12210EBC0083AF3F /* SystemConfiguration.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Application Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* DekaMojiAppDelegate.h */,
+				1D3623250D0F684500981E51 /* DekaMojiAppDelegate.m */,
+				AC2981CD11B3ECF90076901C /* DekaMojiAppDelegate-iPad.h */,
+				AC2981CE11B3ECF90076901C /* DekaMojiAppDelegate-iPad.m */,
+			);
+			name = "Application Delegate";
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* DekaMoji.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		281C6CD70DB2D82200F60ACC /* Flipside View */ = {
+			isa = PBXGroup;
+			children = (
+				289233A20DB2D0840083E9F9 /* FlipsideView.h */,
+				289233A30DB2D0840083E9F9 /* FlipsideView.m */,
+				289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */,
+				289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */,
+				AC2981BB11B3EA5B0076901C /* QuickWebViewController.h */,
+				AC2981BC11B3EA5B0076901C /* QuickWebViewController.m */,
+			);
+			name = "Flipside View";
+			sourceTree = "<group>";
+		};
+		289233A00DB2D0730083E9F9 /* Main View */ = {
+			isa = PBXGroup;
+			children = (
+				289233A40DB2D0840083E9F9 /* MainView.h */,
+				289233A50DB2D0840083E9F9 /* MainView.m */,
+				289233A80DB2D0DB0083E9F9 /* MainViewController.h */,
+				289233A90DB2D0DB0083E9F9 /* MainViewController.m */,
+				AC2981D011B3ED760076901C /* MainViewController-iPad.h */,
+				AC2981D111B3ED760076901C /* MainViewController-iPad.m */,
+			);
+			name = "Main View";
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				AC8419E911C11938006AF5E0 /* AdMaker */,
+				AC29812111B3D9E80076901C /* FontLabel */,
+				289233A00DB2D0730083E9F9 /* Main View */,
+				281C6CD70DB2D82200F60ACC /* Flipside View */,
+				080E96DDFE201D6D7F000001 /* Application Delegate */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				AC2981C911B3EC860076901C /* Resources-iPad */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* DekaMoji_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ACEAC54C1221053700B28F06 /* Icon-72.png */,
+				ACEAC54D1221053700B28F06 /* Icon-Small-50.png */,
+				ACEAC54E1221053700B28F06 /* Icon-Small.png */,
+				ACEAC54F1221053700B28F06 /* Icon-Small@2x.png */,
+				ACEAC5501221053700B28F06 /* Icon.png */,
+				ACEAC5511221053700B28F06 /* Icon@2x.png */,
+				AC2981BE11B3EA680076901C /* QuickWebViewController.xib */,
+				ACD8C8A01033272F00459B30 /* 2.jpg */,
+				ACD8C8B91033293900459B30 /* 10.jpg */,
+				ACB7EFB110332B620029A5CC /* 6.jpg */,
+				ACD8C8B51033289600459B30 /* 3.jpg */,
+				ACD8C8B31033287700459B30 /* 4.jpg */,
+				ACB7EFB310332B7E0029A5CC /* 8.jpg */,
+				ACB7EFAD10332B410029A5CC /* 9.jpg */,
+				ACD8C8B7103328BB00459B30 /* 7.jpg */,
+				ACD8C8A21033272F00459B30 /* 5.jpg */,
+				ACD8C8A31033272F00459B30 /* 1.jpg */,
+				ACADE39A11B53C6A00917DE8 /* Default-Portrait.png */,
+				ACADE39C11B53C7000917DE8 /* Default-Landscape.png */,
+				280E754A0DD40C5E005A515E /* FlipsideView.xib */,
+				280E754B0DD40C5E005A515E /* MainView.xib */,
+				280E754C0DD40C5E005A515E /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* DekaMoji-Info.plist */,
+				AC161A391035F35A00FD3B08 /* Default.png */,
+				ACDFA9C51220FD96008EC9A3 /* Default.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AC8419D311C118D6006AF5E0 /* CoreGraphics.framework */,
+				AC8419D711C118DD006AF5E0 /* Foundation.framework */,
+				AC8419DB11C118E4006AF5E0 /* UIKit.framework */,
+				ACE966EA12210EBC0083AF3F /* SystemConfiguration.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AC29812111B3D9E80076901C /* FontLabel */ = {
+			isa = PBXGroup;
+			children = (
+				AC2981AE11B3E7450076901C /* ipamp.ttf */,
+				AC29812211B3D9F30076901C /* FontLabel.h */,
+				AC29812311B3D9F30076901C /* FontLabel.m */,
+				AC29812411B3D9F30076901C /* FontLabelStringDrawing.h */,
+				AC29812511B3D9F30076901C /* FontLabelStringDrawing.m */,
+				AC29812611B3D9F30076901C /* FontManager.h */,
+				AC29812711B3D9F30076901C /* FontManager.m */,
+				AC29812811B3D9F30076901C /* ZAttributedString.h */,
+				AC29812911B3D9F30076901C /* ZAttributedString.m */,
+				AC29812A11B3D9F30076901C /* ZAttributedStringPrivate.h */,
+				AC29812B11B3D9F30076901C /* ZFont.h */,
+				AC29812C11B3D9F30076901C /* ZFont.m */,
+			);
+			name = FontLabel;
+			sourceTree = "<group>";
+		};
+		AC2981C911B3EC860076901C /* Resources-iPad */ = {
+			isa = PBXGroup;
+			children = (
+				AC2981D211B3ED760076901C /* MainViewController-iPad.xib */,
+				AC2981CA11B3ECA70076901C /* MainWindow-iPad.xib */,
+				AC28092411C123360029848B /* FlipsideViewController-iPad.xib */,
+			);
+			name = "Resources-iPad";
+			sourceTree = "<group>";
+		};
+		AC8419E911C11938006AF5E0 /* AdMaker */ = {
+			isa = PBXGroup;
+			children = (
+				ACDFA8D01220F268008EC9A3 /* YieldMakerView.h */,
+				ACDFA8CE1220F267008EC9A3 /* libYieldMaker_dev.a */,
+				ACDFA8CF1220F268008EC9A3 /* libYieldMaker_sim.a */,
+			);
+			path = AdMaker;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* DekaMoji */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "DekaMoji" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DekaMoji;
+			productName = DekaMoji;
+			productReference = 1D6058910D05DD3D006BFB54 /* DekaMoji.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "DekaMoji" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* DekaMoji */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */,
+				280E754E0DD40C5E005A515E /* MainView.xib in Resources */,
+				280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */,
+				ACD8C8A51033272F00459B30 /* 2.jpg in Resources */,
+				ACD8C8A71033272F00459B30 /* 5.jpg in Resources */,
+				ACD8C8A81033272F00459B30 /* 1.jpg in Resources */,
+				ACD8C8B41033287700459B30 /* 4.jpg in Resources */,
+				ACD8C8B61033289600459B30 /* 3.jpg in Resources */,
+				ACD8C8B8103328BB00459B30 /* 7.jpg in Resources */,
+				ACD8C8BA1033293900459B30 /* 10.jpg in Resources */,
+				ACB7EFAE10332B410029A5CC /* 9.jpg in Resources */,
+				ACB7EFB210332B620029A5CC /* 6.jpg in Resources */,
+				ACB7EFB410332B7E0029A5CC /* 8.jpg in Resources */,
+				AC2981B011B3E7450076901C /* ipamp.ttf in Resources */,
+				AC2981BF11B3EA680076901C /* QuickWebViewController.xib in Resources */,
+				AC2981CB11B3ECA70076901C /* MainWindow-iPad.xib in Resources */,
+				AC2981D411B3ED760076901C /* MainViewController-iPad.xib in Resources */,
+				ACADE39B11B53C6A00917DE8 /* Default-Portrait.png in Resources */,
+				ACADE39D11B53C7000917DE8 /* Default-Landscape.png in Resources */,
+				AC28092611C123360029848B /* FlipsideViewController-iPad.xib in Resources */,
+				ACDFA9C61220FD96008EC9A3 /* Default.png in Resources */,
+				ACEAC5521221053700B28F06 /* Icon-72.png in Resources */,
+				ACEAC5531221053700B28F06 /* Icon-Small-50.png in Resources */,
+				ACEAC5541221053700B28F06 /* Icon-Small.png in Resources */,
+				ACEAC5551221053700B28F06 /* Icon-Small@2x.png in Resources */,
+				ACEAC5561221053700B28F06 /* Icon.png in Resources */,
+				ACEAC5571221053700B28F06 /* Icon@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* DekaMojiAppDelegate.m in Sources */,
+				289233A60DB2D0840083E9F9 /* FlipsideView.m in Sources */,
+				289233A70DB2D0840083E9F9 /* MainView.m in Sources */,
+				289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */,
+				289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */,
+				AC29812D11B3D9F30076901C /* FontLabel.m in Sources */,
+				AC29812E11B3D9F30076901C /* FontLabelStringDrawing.m in Sources */,
+				AC29812F11B3D9F30076901C /* FontManager.m in Sources */,
+				AC29813011B3D9F30076901C /* ZAttributedString.m in Sources */,
+				AC29813111B3D9F30076901C /* ZFont.m in Sources */,
+				AC2981BD11B3EA5B0076901C /* QuickWebViewController.m in Sources */,
+				AC2981CF11B3ECF90076901C /* DekaMojiAppDelegate-iPad.m in Sources */,
+				AC2981D311B3ED760076901C /* MainViewController-iPad.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = DekaMoji_Prefix.pch;
+				INFOPLIST_FILE = "DekaMoji-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/AdMob\"",
+					"\"$(SRCROOT)/AdMaker\"",
+					"\"$(SRCROOT)/../../../sumi/1_making/DekaMoji Ver2.4/AdMaker\"",
+				);
+				PRODUCT_NAME = DekaMoji;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = DekaMoji_Prefix.pch;
+				INFOPLIST_FILE = "DekaMoji-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/AdMob\"",
+					"\"$(SRCROOT)/AdMaker\"",
+					"\"$(SRCROOT)/../../../sumi/1_making/DekaMoji Ver2.4/AdMaker\"",
+				);
+				PRODUCT_NAME = DekaMoji;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		AC161A191035F27D00FD3B08 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				OTHER_LDFLAGS = "";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Distribution;
+		};
+		AC161A1A1035F27D00FD3B08 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = DekaMoji_Prefix.pch;
+				INFOPLIST_FILE = "DekaMoji-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/AdMob\"",
+					"\"$(SRCROOT)/AdMaker\"",
+					"\"$(SRCROOT)/../../../sumi/1_making/DekaMoji Ver2.4/AdMaker\"",
+				);
+				PRODUCT_NAME = DekaMoji;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Distribution;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				OTHER_LDFLAGS = "";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				OTHER_LDFLAGS = "";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "DekaMoji" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				AC161A1A1035F27D00FD3B08 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "DekaMoji" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				AC161A191035F27D00FD3B08 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
